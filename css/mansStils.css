@@ -1,0 +1,14 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Feb 10, 2023, 2:17:54 PM
+    Author     : ataube6
+*/
+
+ table, th, td{
+                    border: 3px solid aquamarine;
+                    color: red;
+                }
+                p.solid {border-bottom-style: solid;}
